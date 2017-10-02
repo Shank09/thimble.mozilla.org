@@ -1,4 +1,4 @@
-Thimble
+Thimble 1
 ==================
 
 [![Build Status](https://travis-ci.org/mozilla/thimble.mozilla.org.svg)](https://travis-ci.org/mozilla/thimble.mozilla.org)
